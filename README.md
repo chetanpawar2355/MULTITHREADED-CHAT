@@ -60,11 +60,7 @@ This project implements a basic chat application using Java that allows multiple
 ### Example Output:
 
 #### Server Terminal:
-```bash
 ![Screenshot 2025-01-19 160629](https://github.com/user-attachments/assets/28da8b1c-901a-4237-b35b-d047dc585893)
-```
 
 #### Client Terminal:
-```bash
 ![Screenshot 2025-01-19 160759](https://github.com/user-attachments/assets/5664f026-5aea-4c33-b0ef-c2db7e525d3f)
-```
